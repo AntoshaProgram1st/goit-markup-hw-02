@@ -100,8 +100,7 @@ h3{color: var( --color-head);
     font-weight: 700;
 }
 p{color: var(--color-secondary);
-    font-size: 14px;
-    font-weight: 400;   
+    font-size: 14px;  
     line-height: 1.71;
     letter-spacing: 0.03em;
 }
@@ -135,7 +134,6 @@ p{color: var(--color-secondary);
 .adress-maps {
     color: #FFFFFF;
     font-style: normal;
-    font-weight: 400;
     font-size: 14px;
     text-decoration: none;
     line-height: 1.71;
@@ -146,10 +144,9 @@ p{color: var(--color-secondary);
 
 }
 .adress-footer {
-    color: #fff;
+    color: #ffffff75;
     font-style: normal;
-    font-size: 14px;
-    font-weight: 400;
+    font-size: 14px;;
     text-decoration: none;
     line-height: 1.71;
         letter-spacing: 0.02em;
